@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <!-- Rounded Container -->
+  <rect width="48" height="48" rx="12" fill="#0B1326"/>
+  <!-- Border with Emerald/Cyan gradient hint -->
+  <rect x="1" y="1" width="46" height="46" rx="11" stroke="#10B981" stroke-width="1.5" stroke-opacity="0.4"/>
+  <!-- Digital CAD Matrix Lines -->
+  <path d="M12 24H36" stroke="#0EA5E9" stroke-width="1" stroke-dasharray="2 2" stroke-opacity="0.4"/>
+  <path d="M24 12V36" stroke="#0EA5E9" stroke-width="1" stroke-dasharray="2 2" stroke-opacity="0.4"/>
+  <!-- Precision Tooth Outline -->
+  <path d="M24 10C18.5 10 14 13.5 14 18C14 22 16 26 18 31C19.5 34.5 21 38 22.5 38C23.5 38 23.8 35 24 33C24.2 35 24.5 38 25.5 38C27 38 28.5 34.5 30 31C32 26 34 22 34 18C34 13.5 29.5 10 24 10Z" fill="#0EA5E9" fill-opacity="0.15" stroke="#38BDF8" stroke-width="2"/>
+  <!-- Emerald Green Digital Pulse Dot -->
+  <circle cx="24" cy="20" r="3" fill="#10B981"/>
+  <circle cx="24" cy="20" r="6" stroke="#34D399" stroke-width="1" stroke-opacity="0.6"/>
+  <!-- Micro CAD Corner Markers -->
+  <path d="M16 14H14V16" stroke="#34D399" stroke-width="1.5"/>
+  <path d="M32 14H34V16" stroke="#34D399" stroke-width="1.5"/>
+</svg>
